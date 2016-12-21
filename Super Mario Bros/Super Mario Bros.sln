@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Super Mario Bros.Plugins", "Super Mario Bros.Plugins.csproj", "{9C543C18-8F56-7E46-2D0B-9A968D246B91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Super Mario Bros.Editor.Plugins", "Super Mario Bros.Editor.Plugins.csproj", "{337FE15E-8711-E7A6-638F-1723E2869D52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C543C18-8F56-7E46-2D0B-9A968D246B91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C543C18-8F56-7E46-2D0B-9A968D246B91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C543C18-8F56-7E46-2D0B-9A968D246B91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C543C18-8F56-7E46-2D0B-9A968D246B91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{337FE15E-8711-E7A6-638F-1723E2869D52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{337FE15E-8711-E7A6-638F-1723E2869D52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{337FE15E-8711-E7A6-638F-1723E2869D52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{337FE15E-8711-E7A6-638F-1723E2869D52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
