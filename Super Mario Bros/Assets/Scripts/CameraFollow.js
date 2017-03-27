@@ -2,11 +2,11 @@
 var DistanceFromPlayer : float = 5;
 var StaticCameraY : float = 3;
 
-function Update () {
+function Update() {
 	transform.position.z = Player.position.z - DistanceFromPlayer;
 	transform.position.x = Player.position.x;
 }
 
-function LateUpdate () {
+function LateUpdate() {
 	GetComponent.<Camera>().main.transform.position.y = StaticCameraY;
 }

@@ -1,9 +1,12 @@
-﻿<Properties StartupItem="Assembly-CSharp-firstpass.csproj">
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\BlockNonDestroy.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Pipe001Entry.js">
     <Files>
-      <File FileName="Assets\Scripts\CameraFollow.js" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\BlockNonDestroy.js" Line="10" Column="48" />
+      <File FileName="Assets\Scripts\BlockWiggle.js" Line="11" Column="11" />
+      <File FileName="Assets\Scripts\BlockDestroy.js" Line="4" Column="21" />
+      <File FileName="Assets\Scripts\Pipe001Entry.js" Line="34" Column="54" />
+      <File FileName="Assets\Scripts\CoinRotation.js" Line="3" Column="41" />
+      <File FileName="Assets\Scripts\CollectCoin.js" Line="39" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

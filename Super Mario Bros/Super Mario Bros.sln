@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 
 Project("{ACBD938A-B8BE-1CF3-8127-E3302EFB87F4}") = "Super Mario Bros", "Assembly-CSharp-firstpass.csproj", "{304A65EE-6B45-DD32-7578-25E93E72F96C}"
 EndProject
+Project("{ACBD938A-B8BE-1CF3-8127-E3302EFB87F4}") = "Super Mario Bros", "Assembly-CSharp.csproj", "{3039AC7C-7559-F0AD-3E10-A71027875499}"
+EndProject
 Project("{ACBD938A-B8BE-1CF3-8127-E3302EFB87F4}") = "Super Mario Bros", "Assembly-CSharp-Editor-firstpass.csproj", "{EAEF5D15-D95D-7B2E-016E-0F8D77DC39B1}"
 EndProject
 Project("{ACBD938A-B8BE-1CF3-8127-E3302EFB87F4}") = "Super Mario Bros", "Assembly-UnityScript.unityproj", "{69A48A31-95AC-389E-C444-115716701E63}"
@@ -17,6 +19,10 @@ Global
 		{304A65EE-6B45-DD32-7578-25E93E72F96C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{304A65EE-6B45-DD32-7578-25E93E72F96C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{304A65EE-6B45-DD32-7578-25E93E72F96C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3039AC7C-7559-F0AD-3E10-A71027875499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3039AC7C-7559-F0AD-3E10-A71027875499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3039AC7C-7559-F0AD-3E10-A71027875499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3039AC7C-7559-F0AD-3E10-A71027875499}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EAEF5D15-D95D-7B2E-016E-0F8D77DC39B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EAEF5D15-D95D-7B2E-016E-0F8D77DC39B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAEF5D15-D95D-7B2E-016E-0F8D77DC39B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
